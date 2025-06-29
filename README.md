@@ -79,3 +79,22 @@ Esse projeto é só o começo! 🚀
 Distribuído sob a licença **MIT**.  
 Sinta-se livre para usar, modificar e compartilhar.  
 Créditos são sempre bem-vindos! ❤️
+
+---
+
+✍️ Minha Experiência com o Projeto
+Este projeto foi uma oportunidade de colocar em prática minha organização financeira pessoal e também de aplicar habilidades de planejamento e lógica.
+
+Durante o desenvolvimento:
+
+Aprimorei o uso de fórmulas financeiras no Excel, como cálculo de juros compostos, acumulação de aportes e projeções;
+
+Testei diferentes cenários reais de investimento para entender melhor como o tempo e a constância influenciam diretamente no resultado final;
+
+Desenvolvi uma visão mais clara sobre a importância do controle visual dos investimentos com gráficos e tabelas;
+
+Aprendi a organizar dados de forma clara, acessível e reutilizável por outras pessoas.
+
+Esse projeto reforçou meu interesse por finanças pessoais, automação de planilhas e soluções simples que geram valor no dia a dia. É uma base sólida para futuras ferramentas, até mesmo em outras plataformas como apps ou web.
+
+
